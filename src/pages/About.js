@@ -15,7 +15,7 @@ function About() {
           </div>
           <div className="w-full md:w-2/3 p-4">
             <p className="text-gray-800 mb-4 text-3xl">
-              Hi, my name is Nicose John Gallaza Soriano and I'm a Information Technology Student. I'm into Technology and that is why i take the Information Technology.
+              Hi, my name is Nicose John sSoriano and I'm a Information Technology Student. I'm into Technology and that is why i take the Information Technology.
             </p>
             <p className="text-gray-800 mb-4 text-2xl">
               Some of my skills include Artist, Illustrator, Designer, and Game Enthusiast.
